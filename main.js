@@ -1,6 +1,6 @@
 var first_variable;
 var food;
-var new;
+var New;
 
 // Problem 1
 console.log(first_variable);
@@ -23,8 +23,8 @@ eat();
 console.log(food);
 
 // Problem 3
-new = "NEW!";
+New = "NEW!";
 function lastFunc() {
-    new = "old";
+    New = "old";
 }
-console.log(new);
+console.log(New);
